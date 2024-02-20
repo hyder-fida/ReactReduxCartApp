@@ -11,13 +11,14 @@ To run the application locally:
 npm start
 Open http://localhost:3000 in your browser to view the app.
 
-**Features
-Add products to the cart.
-Remove products from the cart.
-View the cart.
-Persist cart data in Firebase.
-Technologies Used
-React
-Redux
-Redux Toolkit
-Firebase (Firestore or Realtime Database)**
+Features:
+1.Add products to the cart.
+2.Remove products from the cart.
+3.View the cart.
+4.Persist cart data in Firebase.
+
+Technologies Used:
+1.React
+2.Redux
+3.Redux Toolkit
+4.Firebase (Firestore or Realtime Database)**
